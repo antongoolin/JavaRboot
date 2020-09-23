@@ -4,9 +4,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>ru.sbrf</groupId>
-  <artifactId>dog</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <parent>
+    <groupId>ru.sbrf</groupId>
+    <artifactId>JavaReboot</artifactId>
+    <version>${revision}</version>
+  </parent>
+
+  <artifactId>L01-maven</artifactId>
 
   <name>dog</name>
   <!-- FIXME change it to the project's website -->
@@ -27,4 +31,33 @@
     </dependency>
   </dependencies>
 
+  <build>
+    <finalName>${project.name}</finalName>
+
+  <plugins>
+    <plugin>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-assembly-plugin</artifactId>
+      <configuration>
+        <descriptorRefs>
+          <descriptorRef>jar-with-dependencies</descriptorRef>
+        </descriptorRefs>
+        <archive>
+          <manifest>
+            <mainClass>ru.sbrf.App</mainClass>
+          </manifest>
+        </archive>
+      </configuration>
+      <executions>
+        <execution>
+          <id>make-assembly</id>
+          <phase>package</phase>
+          <goals>
+            <goal>single</goal>
+          </goals>
+        </execution>
+      </executions>
+    </plugin>
+  </plugins>
+  </build>
 </project>
