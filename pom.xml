@@ -11,6 +11,7 @@
 
   <modules>
     <module>dog</module>
+    <module>lesson2</module>
   </modules>
 
   <name>JavaReboot</name>
