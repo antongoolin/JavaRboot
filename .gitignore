@@ -1,5 +1,4 @@
-/dog/src/test/
 *.iml
 .idea
 target
-/.idea/
+*.class
