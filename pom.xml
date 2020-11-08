@@ -10,8 +10,8 @@
   <version>${revision}</version>
 
   <modules>
-    <module>dog</module>
     <module>lesson2</module>
+    <module>lesson4_GC</module>
   </modules>
 
   <name>JavaReboot</name>
@@ -21,7 +21,7 @@
   <properties>
 
     <!-- region general -->
-    <java.version>13</java.version>
+    <java.version>11</java.version>
     <revision>1.0-SNAPSHOT</revision>
     <minimal.maven.version>3.6.1</minimal.maven.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

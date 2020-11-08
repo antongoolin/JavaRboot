@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ru.sbrf</groupId>
-  <artifactId>lesson2</artifactId>
+  <artifactId>lesson4_GC</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>lesson2</name>
+  <name>lesson4_GC</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
