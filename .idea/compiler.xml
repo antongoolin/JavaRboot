@@ -8,11 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="homework6_lists" />
-        <module name="server" />
         <module name="homework9_annotation" />
-        <module name="common" />
         <module name="homework_threads" />
-        <module name="client" />
         <module name="lesson1" />
         <module name="lesson2" />
         <module name="lesson4_GC" />
@@ -22,6 +19,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cat" target="1.7" />
+      <module name="client" target="1.8" />
+      <module name="common" target="1.8" />
       <module name="homework5_InputOutput" target="1.7" />
       <module name="homework_Spring" target="1.5" />
       <module name="homeworkS02E06_threads" target="1.7" />
@@ -29,6 +28,7 @@
       <module name="JavaReboot" target="15" />
       <module name="main" target="1.8" />
       <module name="module1" target="1.7" />
+      <module name="server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
