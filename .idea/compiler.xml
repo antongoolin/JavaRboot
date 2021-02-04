@@ -27,6 +27,7 @@
       <module name="homeworkS02E06_threads" target="1.7" />
       <module name="homeworks2e6_threads" target="1.7" />
       <module name="JavaReboot" target="15" />
+      <module name="main" target="1.8" />
       <module name="module1" target="1.7" />
     </bytecodeTargetLevel>
   </component>
