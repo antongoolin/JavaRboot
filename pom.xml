@@ -13,6 +13,10 @@
     <module>lesson2</module>
     <module>lesson4_GC</module>
     <module>homework9_annotation</module>
+      <module>homework6_lists</module>
+      <module>homework11_ATM</module>
+      <module>homework5_IO</module>
+      <module>homework_threads</module>
   </modules>
 
   <name>JavaReboot</name>

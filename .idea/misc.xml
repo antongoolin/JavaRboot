@@ -6,15 +6,20 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../cat/pom.xml" />
+        <option value="$PROJECT_DIR$/../homeworkS02E06_threads/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootATMExample/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/homework5_InputOutput/pom.xml" />
+        <option value="$PROJECT_DIR$/homeworkS02E06_threads/pom.xml" />
+        <option value="$PROJECT_DIR$/homeworks2e6_threads/pom.xml" />
         <option value="$PROJECT_DIR$/module1/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="15" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
