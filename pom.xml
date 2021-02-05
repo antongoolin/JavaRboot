@@ -10,14 +10,15 @@
   <version>${revision}</version>
 
   <modules>
-    <module>lesson2</module>
-    <module>lesson4_GC</module>
-    <module>homework9_annotation</module>
-      <module>homework6_lists</module>
-      <module>homework11_ATM</module>
-      <module>homework5_IO</module>
-      <module>homework_threads</module>
-      <module>hw12_atm.spring</module>
+    <module>hw2_shapes</module>
+    <module>hw4_gc</module>
+    <module>hw5_io</module>
+    <module>hw6_lists</module>
+    <module>hw9_annotation</module>
+    <module>hw11_atm</module>
+    <module>hw12_atm.spring</module>
+    <module>hw16_threads</module>
+    <module>hw20_lib</module>
   </modules>
 
   <name>JavaReboot</name>

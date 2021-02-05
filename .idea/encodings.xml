@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/homework4_GC/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/homework6_lists/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw12_atm.spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw12_atm.spring/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hw16_threads/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw20_lib/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hw2_shapes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw4_gc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hw5_io/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hw6_lists/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hw9_annotation/src/main/java" charset="UTF-8" />
   </component>
 </project>
