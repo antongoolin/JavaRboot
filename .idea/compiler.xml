@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="homework6_lists" />
+hw11_atm
         <module name="homework9_annotation" />
         <module name="hw11_atm" />
         <module name="homework_threads" />
@@ -15,6 +16,7 @@
         <module name="lesson2" />
         <module name="lesson4_GC" />
         <module name="homework5_IO" />
+ master
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
