@@ -17,6 +17,7 @@
       <module>homework11_ATM</module>
       <module>homework5_IO</module>
       <module>homework_threads</module>
+      <module>hw12_atm.spring</module>
   </modules>
 
   <name>JavaReboot</name>
