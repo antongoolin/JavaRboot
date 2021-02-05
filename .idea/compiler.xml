@@ -10,9 +10,9 @@
         <module name="homework6_lists" />
         <module name="homework9_annotation" />
         <module name="homework_threads" />
+        <module name="homework4_GC" />
+        <module name="hw2_shapes" />
         <module name="lesson1" />
-        <module name="lesson2" />
-        <module name="lesson4_GC" />
         <module name="homework11_ATM" />
         <module name="homework5_IO" />
       </profile>
