@@ -9,7 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="homework6_lists" />
         <module name="hw5_io" />
-        <module name="homework_threads" />
+        <module name="hw16_threads" />
         <module name="homework4_GC" />
         <module name="hw2_shapes" />
         <module name="hw9_annotation" />
