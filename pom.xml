@@ -18,7 +18,7 @@
     <module>hw11_atm</module>
     <module>hw12_atm.spring</module>
     <module>hw16_threads</module>
-    <module>hw20_lib</module>
+    <module>hw22_lib</module>
   </modules>
 
   <name>JavaReboot</name>
